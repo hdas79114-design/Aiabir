@@ -1,4 +1,4 @@
-# Abir AI Android starter
+B5690EEEBB952194# Abir AI Android starter
 
 A simple Bengali voice assistant starter app. It can listen for spoken commands and open supported apps or searches. Microphone permission is requested when needed.
 
